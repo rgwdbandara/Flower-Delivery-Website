@@ -11,7 +11,7 @@ Bloomify is a modern, user-friendly flower delivery web application that combine
 🌍 Multi-platform support - App Store & Play Store download options
 📷 Beautiful UI showcasing customer favourites and top-rated bouquets
 
-                🖥️ Tech Stack
+                🖥️ Tech Stack 
 HTML5 & CSS3
 JavaScript
 Responsive Design
