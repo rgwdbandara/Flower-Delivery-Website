@@ -1,4 +1,4 @@
-### 🌸 Bloomify - AI-Powered Flower Delivery Web App
+### 🌸 Bloomify - Flower Delivery Web App Design
 
 Bloomify is a modern, user-friendly flower delivery web application that combines beauty and functionality to make gifting flowers effortless and delightful. Featuring AI-powered recommendations, same-day & scheduled delivery, and a custom bouquet builder, Bloomify redefines the online floral shopping experience.
 
